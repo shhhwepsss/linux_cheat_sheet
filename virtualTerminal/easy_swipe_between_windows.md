@@ -1,0 +1,1 @@
+use **alt + arrow** shortcat. On my laptop only left alt works
